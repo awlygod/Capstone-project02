@@ -1,4 +1,4 @@
-# SAR Mini Rover — Ground Station Dashboard
+# SAR Mini Rover: Ground Station Dashboard
 
 A compact IoT-enabled Search and Rescue (SAR) rover designed for deployment through narrow conduits in collapsed structures. This repo contains the **React-based ground station dashboard** for real-time telemetry monitoring and video-based human detection.
 
